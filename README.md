@@ -7,3 +7,5 @@ Yeni satır
 Local tarafta eklenen satır
 
 Github son satır
+
+master için satır ekledim
