@@ -4,7 +4,7 @@ Git komutlarını denemek için.
 
 Yeni satır
 
-Local tarafta eklenen satır
+Local tarafta eklenen bug-fix satır
 
 Github son satır
 
