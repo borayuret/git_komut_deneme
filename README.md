@@ -9,3 +9,5 @@ Local tarafta eklenen satır
 Github son satır
 
 master için satır ekledim
+
+Bu satır new-feature-branch için eklendi.
