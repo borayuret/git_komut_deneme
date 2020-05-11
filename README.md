@@ -15,3 +15,4 @@ Bu satır new-feature-branch için eklendi.
 new-feature-branch'ın son satırı.
 
 dev1 tarafından 17.satıra eklendi.
+dev2 tarafından 17. satır eklendi.
