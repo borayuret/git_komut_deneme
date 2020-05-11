@@ -11,3 +11,5 @@ Github son satır
 master için satır ekledim
 
 Bu satır new-feature-branch için eklendi.
+
+new-feature-branch'ın son satırı.
